@@ -1,0 +1,253 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.full-div{
+    width: 1000px;
+    height: auto;
+    margin: 20px 190px;
+}
+
+.menu{
+    text-align: center;
+    background-color: #34495e;
+}
+
+h3{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+img{
+    min-width: 100%;
+    margin-bottom: -5px;
+}
+
+.container1{
+    height: 510px;
+    width: 1000px;
+    background-color:#0d6efd;
+    text-align: center;
+}
+
+.box1{
+    height: 190px;
+    width: 400px;
+    background-color: #e67e22;
+    display: inline-block;
+    border-radius: 0 50px 50px 0;
+    margin-right: 300px;
+    margin-top: 60px;
+    border-left: 4px solid #181717;
+    box-shadow: 2px 2px 9px #3a6aa0;
+    text-align: center;
+    
+}
+
+.box1 p{
+    font-size: 15px;
+    color: white;
+    font-family: 'Open Sans', sans-serif
+}
+
+.box1 h3{
+    color: white;
+    font-family: 'Open Sans', sans-serif
+
+
+}
+
+.box1 img{
+    min-width: 1px;
+    margin-top: 10px;
+
+}
+
+.box2{
+    height: 190px;
+    width: 400px;
+    background-color: #1abc9c;
+    display: inline-block;
+    border-radius: 50px 0 0 50px;
+    margin-left: 300px;
+    margin-top: 20px;
+    border-right: 4px solid #9149af;
+    box-shadow: 2px 2px 9px #6c53c5;
+    text-align: right;
+
+}
+
+
+.box2 p{
+    font-size: 15px;
+    margin-right: 15px;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.box2 h3{
+    color: white;
+    margin-right: 15px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+
+.box2 img{
+    min-width: 1px;
+    margin-top: 10px;
+    margin-right: 15px;
+}
+
+.footer1{
+    background-color: #4d687a;
+    height: 470px;
+    width: 1000px;
+}
+
+
+.f-heading{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: 20px;
+    }
+
+
+    .flagbd{
+    height: 120px;
+    width: 240px;
+    background-color: green;
+    text-align: center;
+    padding: 20px;
+    margin-left: 30px;
+    color: white;
+    box-shadow: 3px 3px 8px rgba(241, 235, 235, 0.548);
+    border-radius: 4px;
+    font-family: 'Open Sans', sans-serif;
+    }
+    .red{
+    height: 120px;
+    width: 120px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+    }
+    .bd{
+        margin-top: 15px;
+    }
+    .flag-eng{
+        background-color: #ffffff;
+        height: 160px;
+        width: 280px;
+        margin-left: 340px;
+        margin-top: -160px;
+        color: white;
+        box-shadow: 3px 3px 8px rgba(241, 235, 235, 0.548);
+        border-radius: 4px;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .colam{
+        height: 159px;
+        width: 25px;
+        background-color: red;
+        margin-left: 185px;
+    }
+    .row{
+        width: 280;
+        height: 25px;
+        background-color: red;
+        margin-top: -95px;
+    }
+    .england{
+        margin-top: 70px;
+        text-align: center;
+    }
+    .japan{
+        height: 120px;
+        width: 240px;
+        background-color: white;
+        margin-left: 670px;
+        margin-top: -161px;
+        text-align: center;
+        padding: 20px;
+        box-shadow: 3px 3px 8px rgba(241, 235, 235, 0.548);
+        color: white;
+        border: 3px solid black;
+        border-radius: 4px;
+        font-family: 'Open Sans', sans-serif;
+    
+    }
+    .white{
+     background-color: red;
+     height: 120px;
+     width: 120px;
+     border-radius: 50%;
+     display: inline-block;
+    }
+    .jp{
+        margin-top: 15px;
+    }
+    .germany{
+        background-color: #ffffff;
+        height: 160px;
+        width: 280px;
+        margin-top: 40px;
+        display: inline-block;
+        box-shadow: 3px 3px 8px rgba(241, 235, 235, 0.548);
+        border-radius: 4px;
+        color: white;
+        font-family: 'Open Sans', sans-serif;
+        margin-left: 340px;
+    }
+    .logg{
+        margin-top: -1px;
+        text-align: center;
+    }   
+    
+    .kalo{
+        background-color: black;
+        width: 280px;
+        height: 55px;
+        border-radius: 3px 3px 0 0;
+    }
+    .lal{
+        background-color: red;
+        width: 280px;
+        height: 51px;
+        margin-top: 2px;
+    }
+    .halud{
+        background-color: yellow;
+        width: 280px;
+        height: 52px;
+        margin-top: 1px;
+        border-radius: 0 0 3px 3px;
+    
+    }
+
+
+  
+
+
+ 
+h1{
+    color: white;
+    text-align: center;
+}
+
+
+.footer{
+    background-color: #198754;
+    padding: 20px;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
